@@ -11,14 +11,14 @@ Below are the descriptions of the two main files in this repository: `train.xml`
 - **Description**: The `train.xml` file contains the preprocessed training dataset used for our machine learning models. This dataset includes the following columns:
   - `Devanagari`: Contains text in the Devanagari script.
   - `Roman`: Contains transliterations of the Devanagari text into the Roman script.
-  - `Label`: The target label for testing.
+  - `Label`: The target label (1: Theragatha, 2: Therigatha).
 
 ### test.xml
 
 - **Description**: The `test.xml` file contains the preprocessed test dataset used to evaluate the performance of our machine learning models. This dataset includes the following columns:
   - `Devanagari`: Contains text in the Devanagari script.
   - `Roman`: Contains transliterations of the Devanagari text into the Roman script.
-  - `Label`: The target label for testing.
+  - `Label`: The target label (1: Theragatha, 2: Therigatha).
 
 ## Usage
 
