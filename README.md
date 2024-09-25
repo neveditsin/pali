@@ -1,4 +1,4 @@
-# Anonymous Repository
+# Pali Dataset
 
 This repository contains the datasets used for our research project. 
 Due to conference policy, this repository is anonymous. 
