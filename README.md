@@ -1,7 +1,6 @@
 # Pali Dataset
 
 This repository contains the datasets used for our research project. 
-Due to conference policy, this repository is anonymous. 
 Below are the descriptions of the two main files in this repository: `train.xml` and `test.xml`.
 
 ## Files
